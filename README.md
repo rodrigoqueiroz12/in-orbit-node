@@ -22,12 +22,12 @@ Este projeto é uma aplicação Node API feita para gerenciar metas pessoais de 
 
 ## Tecnologias Utilizadas
 
-- [**Node**](https://react.dev/): Biblioteca JavaScript para construir interfaces de usuário.
-- [**Fastify**](https://react.dev/): Biblioteca JavaScript para construir interfaces de usuário.
-- [**Drizzle ORM**](https://tailwindcss.com/): Framework CSS utilitário para estilização rápida e customizada.
-- [**Docker**](https://lucide.dev/): Biblioteca de ícones de código aberto, leve e personalizável.
-- [**Postgres**](https://vitejs.dev/): Ferramenta de build que proporciona um ambiente de desenvolvimento rápido para projetos web modernos.
-- [**@paralleldrive/cuid2**](https://react-hook-form.com/): Biblioteca para gerenciamento eficiente de formulários e validação em aplicações React.
+- [**Node**](https://nodejs.org/pt): Ambiente de execução JavaScript no servidor, ideal para aplicações escaláveis.
+- [**Fastify**](https://fastify.dev/): Framework web rápido e eficiente para construir APIs em Node.js.
+- [**Drizzle ORM**](https://orm.drizzle.team/): ORM leve e focado em TypeScript para facilitar a interação com bancos de dados.
+- [**Docker**](https://www.docker.com/): Plataforma para criar, distribuir e executar aplicações em containers.
+- [**Postgres**](https://www.postgresql.org/): Banco de dados relacional robusto e de código aberto.
+- [**@paralleldrive/cuid2**](https://github.com/paralleldrive/cuid2): Biblioteca para gerar IDs únicos e seguros em sistemas distribuídos.
 - [**Zod**](https://zod.dev/): Biblioteca TypeScript-first para validação e definição de esquemas de dados.
 - [**Dayjs**](https://day.js.org/): Biblioteca JavaScript minimalista para manipulação e formatação de datas e horas.
 - [**Biome JS**](https://biomejs.dev/pt-br/): Ferramenta para formatação e linting de código JavaScript e TypeScript.
@@ -76,7 +76,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 ## Uso
 
-Após iniciar o servidor, você pode realizar requisições à aplicação em `http://localhost:3333/`.
+Após iniciar o servidor, você pode realizar requisições em `http://localhost:3333/`.
 
 ## Contato
 
